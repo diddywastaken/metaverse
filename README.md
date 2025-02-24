@@ -3,3 +3,4 @@
 2D metabverse
 gg squad
 help
+gg
